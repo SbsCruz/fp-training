@@ -1,1 +1,1 @@
-# Functional Programmin Training
+# Functional Programming Training
